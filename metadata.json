@@ -1,0 +1,8 @@
+{
+  "name": "Charter Premium",
+  "description": "A considered approach to luxury real estate in Mumbai. Exceptional residences curated with precision by Charter Premium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
